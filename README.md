@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shreyasraj-001/shreyasraj-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-<h1 align="center">Hi 👋, I'm Shreyas Raj</h1>
-<h3 align="center">On a mission tOn code solutions that matter</h3>
+## <h1 align="center">Hi 👋, I'm Shreyas Raj</h1>
+<h3 align="center">On a mission to code solutions that matter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyasraj-001&label=Profile%20views&color=0e75b6&style=flat" alt="shreyasraj-001" /> </p>
 
